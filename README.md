@@ -9,7 +9,11 @@
 
 V projektu raziskujeva, kako so se v zadnjih približno 20 letih spreminjali dostopnost, stroški in uspešnost študija na ameriških univerzah, s poudarkom na Ivy League.
 
-Univerze Ivy League primerjava z drugimi javnimi in zasebnimi neprofitnimi štiriletnimi univerzami. Obravnavava tudi zaslužke v računalniških poklicih glede na izobrazbo.
+Univerze Ivy League primerjava z drugimi javnimi in zasebnimi neprofitnimi štiriletnimi univerzami. Analizirava prijave, sprejeme, vpise, zaključevanje študija ter število diplomantov računalništva.
+
+Pri stroških študija upoštevava **inflacijo** ter razlikujeva med **objavljenimi šolninami, skupnimi stroški in neto cenami**. Raziskujeva tudi, kako se zaslužki in zaposlitvene možnosti v računalniških poklicih razlikujejo glede na izobrazbo.
+
+V nadaljevanju projekta bova s finančno simulacijo primerjali **neposredno zaposlitev, študij na javni univerzi in študij na Ivy League** ter ocenili, pod katerimi pogoji se finančna naložba v študij povrne.
 
 ## Raziskovalna vprašanja
 
