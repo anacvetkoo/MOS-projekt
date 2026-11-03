@@ -24,13 +24,13 @@ V nadaljevanju projekta bova s finančno simulacijo primerjali **neposredno zapo
 - **RV5:** Kako se zaslužki in zaposlitvene možnosti v IT razlikujejo glede na izobrazbo?
 - **RV6:** Kdaj se finančna naložba v študij povrne v primerjavi z neposredno zaposlitvijo?
 
-Pri **RV5** je trenutno opravljena primerjava zaslužkov zaposlenih v računalniških poklicih glede na izobrazbo. Zaposlitvene možnosti še niso analizirane. **RV6** je načrtovan za nadaljnje faze projekta.
+Pri **RV5** sva analizirali zaslužke in stopnje brezposelnosti glede na izobrazbo v izbranih računalniških poklicih (ACS 2024). Dodatno sva pripravili interaktivno vizualizacijo zaslužkov glede na starost in izobrazbo. Analiza ne omogoča ocene verjetnosti prve zaposlitve v IT. **RV6** je načrtovan za nadaljnje faze projekta.
 
 ## Podatkovni viri
 
 - **IPEDS / NCES:** podatki o univerzah, vpisih, zaključevanju študija, šolninah in diplomantih.
 - **College Scorecard:** neto cene in skupni stroški študija.
-- **IPUMS ACS:** izobrazba in zaslužki v računalniških poklicih.
+- **IPUMS ACS:** izobrazba, zaslužki in brezposelnost v izbranih računalniških poklicih.
 - **CPI-U (FRED / BLS):** prilagoditev stroškov za inflacijo.
 
 
@@ -45,7 +45,7 @@ Pri **RV5** je trenutno opravljena primerjava zaslužkov zaposlenih v računalni
 
 ## Uporaba
 
-Analize izvajava v Pythonu (Google Colab), predvsem s knjižnicami pandas, numpy in matplotlib. Pred izvajanjem je treba zagotoviti ustrezne podatkovne datoteke, saj jih nekateri zvezki berejo iz Google Drive, drugi pa iz okolja Colab.
+Analize izvajava v Pythonu (Google Colab), predvsem s knjižnicami pandas, numpy, matplotlib in Plotly. Pred izvajanjem je treba zagotoviti ustrezne podatkovne datoteke, saj jih nekateri zvezki berejo iz Google Drive, drugi pa iz okolja Colab.
 
 Individualnih podatkov IPUMS ACS zaradi pogojev uporabe ne objavljava na GitHubu.
 
